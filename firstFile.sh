@@ -6,6 +6,7 @@ b=10
 ((sum=a+b))
 echo "Sum of $a and $b is $sum";
 
+
 c=25
 d=15
 ((diff=c-d))
@@ -16,3 +17,10 @@ m=20
 n=10
 ((div=m/n))
 echo "Division of $m and $n is $div";
+
+
+e=5
+f=10
+((mul=e*f))
+echo "Product of $e and $f is $mul";
+
