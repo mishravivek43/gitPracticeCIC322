@@ -5,3 +5,8 @@ a=5
 b=10
 ((sum=a+b))
 echo "Sum of $a and $b is $sum";
+
+c=25
+d=15
+((diff=c-d))
+echo "Differance of $c and $d is $diff";
