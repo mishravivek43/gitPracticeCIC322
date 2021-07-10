@@ -10,3 +10,9 @@ c=25
 d=15
 ((diff=c-d))
 echo "Differance of $c and $d is $diff";
+
+
+m=20
+n=10
+((div=m/n))
+echo "Division of $m and $n is $div";
